@@ -4,9 +4,8 @@ export default function Home() {
   return (
     <main >
       {/*header*/}
-      <Header></Header>
+      <Header/>
       {/*board*/}
-      <h1>Trello 2.0</h1>  
-        </main>
+      </main>
   )
 }
