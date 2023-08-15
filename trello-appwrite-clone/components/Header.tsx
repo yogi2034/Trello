@@ -29,7 +29,7 @@ function Header() {
         </div>
         </div>
         <div className='flex items-center justify-center px-5 md:py-5'>
-          <p className='flex items-center p-2 text-sm font-light pr-5  shadow-xl rounded-xl w-fit bg-white italic max-w-3xl text-[#5500D1]'>
+          <p className='flex items-center p-2 text-sm font-light pr-5 py-2 shadow-xl rounded-xl w-fit bg-white italic max-w-3xl text-[#5500D1]'>
           <UserCircleIcon className='inline-block h-10 w-10 text-[#0055D1] mr-1'/>
           GPT is summarizing your tasks..
           </p>
